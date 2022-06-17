@@ -1,0 +1,251 @@
+scramble-words-separately: true
+max-hints: -1
+display-answer-on-failed-games: true
+display-prize: true
+check-for-updates: true
+
+random-words:
+    - air
+    - apple
+    - arrow
+    - bed
+    - bed block
+    - bedrock
+    - blaze powder
+    - blaze rod
+    - boat
+    - bone
+    - book
+    - bookshelf
+    - bow
+    - bowl
+    - bread
+    - brewing stand
+    - brick
+    - brick stairs
+    - brown mushroom
+    - bucket
+    - burning furnace
+    - cactus
+    - cake
+    - cauldron
+    - chainmail boots
+    - chainmail chestplate
+    - chainmail helmet
+    - chainmail leggings
+    - chest
+    - clay
+    - clay ball
+    - clay brick
+    - coal
+    - coal ore
+    - cobblestone
+    - cobblestone stairs
+    - compass
+    - cooked beef
+    - cooked chicken
+    - cooked fish
+    - cookie
+    - crops
+    - dead bush
+    - detector rail
+    - diamond
+    - diamond axe
+    - diamond block
+    - diamond boots
+    - diamond chestplate
+    - diamond helmet
+    - diamond hoe
+    - diamond leggings
+    - diamond ore
+    - diamond pickaxe
+    - diamond shovel
+    - diamond sword
+    - diode
+    - dirt
+    - dispenser
+    - dragon egg
+    - egg
+    - enchantment table
+    - ender pearl
+    - ender portal
+    - ender stone
+    - eye of ender
+    - feather
+    - fence
+    - fence gate
+    - fermented spider eye
+    - fire
+    - fireball
+    - fishing rod
+    - flint
+    - flint and steel
+    - furnace
+    - ghast tear
+    - glass
+    - glass bottle
+    - glowstone
+    - glowstone dust
+    - gold axe
+    - gold block
+    - gold boots
+    - gold chestplate
+    - gold helmet
+    - gold hoe
+    - gold ingot
+    - gold leggings
+    - gold nugget
+    - gold ore
+    - gold pickaxe
+    - gold record
+    - gold shovel
+    - gold sword
+    - golden apple
+    - grass
+    - gravel
+    - green record
+    - grilled pork
+    - ice
+    - ink sack
+    - iron axe
+    - iron block
+    - iron boots
+    - iron chestplate
+    - iron door
+    - iron fence
+    - iron helmet
+    - iron hoe
+    - iron ingot
+    - iron leggings
+    - iron ore
+    - iron pickaxe
+    - iron shovel
+    - iron sword
+    - jack o lantern
+    - jukebox
+    - ladder
+    - lapis block
+    - lapis ore
+    - lava
+    - lava bucket
+    - leather
+    - leather boots
+    - leather chestplate
+    - leather helmet
+    - leather leggings
+    - leaves
+    - lever
+    - log
+    - magma cream
+    - map
+    - melon
+    - melon block
+    - melon seeds
+    - melon stem
+    - milk bucket
+    - minecart
+    - mob spawner
+    - monster egg
+    - monster eggs
+    - mossy cobblestone
+    - mushroom soup
+    - mycelium
+    - nether brick
+    - nether brick stairs
+    - nether fence
+    - nether stalk
+    - nether warts
+    - netherrack
+    - note block
+    - obsidian
+    - painting
+    - paper
+    - piston
+    - sticky piston
+    - pork
+    - portal
+    - potion
+    - powered minecart
+    - powered rail
+    - pumpkin
+    - pumpkin seeds
+    - pumpkin stem
+    - rails
+    - raw beef
+    - raw chicken
+    - raw fish
+    - record 10
+    - record 11
+    - record 3
+    - record 4
+    - record 5
+    - record 6
+    - record 7
+    - record 8
+    - record 9
+    - red mushroom
+    - red rose
+    - redstone
+    - redstone lamp
+    - redstone ore
+    - redstone torch
+    - redstone wire
+    - rotten flesh
+    - saddle
+    - sand
+    - sandstone
+    - sapling
+    - seeds
+    - shears
+    - sign
+    - slime ball
+    - smooth brick
+    - smooth stairs
+    - snow
+    - snow ball
+    - snow block
+    - soil
+    - soul sand
+    - speckled melon
+    - spider eye
+    - sponge
+    - step
+    - stick
+    - stone
+    - stone axe
+    - stone button
+    - stone hoe
+    - stone pickaxe
+    - stone plate
+    - stone shovel
+    - stone sword
+    - storage minecart
+    - string
+    - sugar
+    - sugar cane
+    - sulphur
+    - thin glass
+    - tnt
+    - torch
+    - trap door
+    - vine
+    - wall sign
+    - watch
+    - water
+    - water bucket
+    - water lily
+    - web
+    - wheat
+    - wood
+    - wood axe
+    - wood door
+    - wood hoe
+    - wood pickaxe
+    - wood plate
+    - wood shovel
+    - wood stairs
+    - wood sword
+    - wooden door
+    - wool
+    - workbench
+    - yellow flower

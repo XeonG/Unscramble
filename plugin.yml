@@ -1,0 +1,12 @@
+name: Unscramble
+main: me.Koolio.Unscramble.UnscrambleMain
+version: 4.0
+description: Unscramble Game
+depend: [Vault]
+commands:
+    unscramble:
+        description: Base command
+        usage: /<command>
+    us:
+        description: Base command
+        usage: /<command>
